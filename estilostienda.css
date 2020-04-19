@@ -1,3 +1,20 @@
+/*paguina ppal o index*/
 .cuerpo {
     background-color: cornflowerblue;
+}
+.textofinal {
+    color: cornsilk;
+}
+
+
+
+
+
+
+/*formulario login*/
+.contenedorPadre {
+    width: 400px;
+    padding: 20px;
+    margin: 40px auto;
+    
 }
